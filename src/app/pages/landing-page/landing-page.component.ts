@@ -74,7 +74,6 @@ export class LandingPageComponent implements OnInit {
    {caseid:"101",case_type:"Type-1",case_stage:"Open",business_unit:"FS",case_updated_by:"Holmes",case_updated_date:"1995-08-21",case_created_by:"Bimalesh"},
    {caseid:"101",case_type:"Type-1",case_stage:"Open",business_unit:"FS",case_updated_by:"Holmes",case_updated_date:"1995-08-21",case_created_by:"Bimalesh"}]
   }]
-
   console.log(this.entitylist);
 }
   CancelAdvSearch() {
