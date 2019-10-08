@@ -4,7 +4,7 @@ import { CookieService } from 'ngx-cookie-service';
 import { LOCAL_STORAGE, StorageService } from 'ngx-webstorage-service';
 import { EncrDecrService } from '../../shared/services/encr-decr.service';
 import { LoginClass } from '../../login/login-class';
-import { LandingService } from '../../shared/Services/landing.service';
+import { LandingService } from '../../shared/services/landing.service';
 import { UsecaseCount,UsecaseCountList } from '../../pages/landing-page/landing-page-class';
 import { ToastrManager } from 'ng6-toastr-notifications';
 import { environment } from '../../../environments/environment.prod';
